@@ -1,3 +1,7 @@
+#jenkins-head-icon {
+	display: none !important;
+}
+
 #header {
 	background-color: teal !important;
 }
